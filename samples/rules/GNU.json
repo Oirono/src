@@ -1,0 +1,33 @@
+
+{
+  "rules": [
+    {
+      "rule" : "CurlyBracketsOpenSeparateLine",
+      "appliedTo": "Class"
+    },
+	
+    {
+      "rule" : "CurlyBracketsCloseSeparateLine",
+      "appliedTo": "Class"
+    },
+	
+    {
+      "rule" : "ElseSeparateLineFromCurlyBracketClose",
+      "appliedTo": "Conditional"
+    },
+	
+    {
+      "rule" : "SpaceIndentation",
+      "parameter" : "2"
+    },
+	
+    {
+      "rule" : "CurlyBracketsIndentationUnique",
+      "appliedTo": "Conditional"
+    },
+	
+    {
+      "rule" : "SpaceBetweenOperandsInternal"
+    }
+  ]
+}

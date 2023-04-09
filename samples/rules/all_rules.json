@@ -1,0 +1,57 @@
+{
+  "rules": [
+    {
+      "rule": "NoAuto"
+    },
+    {
+      "rule": "TabIndentation"
+    },
+    {
+      "rule": "NoDefine"
+    },
+    {
+      "rule": "NoMacroFunctions"
+    },
+    {
+      "rule": "StartWithX"
+    },
+    {
+      "rule": "EndWithX"
+    },
+    {
+      "rule": "MaxCharactersPerLine",
+      "parameter": "80"
+    },
+    {
+      "rule": "CurlyBracketsOpenSameLine"
+    },
+    {
+      "rule": "CurlyBracketsOpenSeparateLine"
+    },
+    {
+      "rule": "CurlyBracketsCloseSameLine"
+    },
+    {
+      "rule": "CurlyBracketsCloseSeparateLine"
+    },
+    {
+      "rule": "AlwaysHaveCurlyBrackets"
+    },
+    {
+      "rule": "NoConstCast"
+    },
+    {
+      "rule": "StartWithLowerCase"
+    },
+    {
+      "rule": "StartWithUpperCase"
+    },
+    {
+      "rule": "NameMaxCharacter",
+      "parameter": "80"
+    },
+    {
+      "rule": "SingleReturn"
+    }
+  ]
+}

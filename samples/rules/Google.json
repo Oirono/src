@@ -1,0 +1,55 @@
+
+{
+  "rules": [
+    {
+      "rule" : "SpaceIndentation",
+      "parameter" : "2"
+    },
+	
+    {
+      "rule" : "MaxCharactersPerLine",
+      "parameter" : "80"
+    },
+	
+    {
+      "rule" : "SpaceBetweenOperandsInternal"
+    },
+	
+    {
+      "rule" : "NoSpaceBetweenOperandsExternal"
+    },
+	
+    {
+      "rule" : "CurlyBracketsOpenSameLine"
+    },
+	
+    {
+      "rule" : "CurlyBracketsCloseSeparateLine"
+    },
+	
+    {
+      "rule" : "SpaceBetweenParenthesisAndCurlyBrackets",
+      "appliedTo": "Conditional",
+    },
+	
+    {
+      "rule" : "SpaceBetweenConditionAndParenthesis",
+      "appliedTo": "Conditional",
+    },
+	
+    {
+      "rule" : "ConditionConsistentCurlyBrackets",
+      "appliedTo": "Conditional",
+    },
+	
+    {
+      "rule" : "NoAdditionnalIndentation",
+      "appliedTo": "Namespace",
+    },
+	
+    {
+      "rule" : "SpaceBetweenOperandsInternal"
+    }
+	
+  ]
+}
